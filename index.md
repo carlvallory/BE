@@ -6,6 +6,8 @@ Im starting a self php starter-kit [here on GitHub](https://github.com/carlvallo
 
 The code has some script that i have used for some time now, but separetly, and now its all integrated, and cleaner.
 
+### Back End
+
 ```BackEnd
 
 **Configuration**
@@ -14,6 +16,8 @@ The code has some script that i have used for some time now, but separetly, and 
 
 **Functions**
 ```
+
+### Front End
 
 ```FrontEnd
 _Italic_ and `Code` text
