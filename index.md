@@ -30,7 +30,7 @@ _a unified system that combines theory, resources, and tools for crafting digita
 [Link](https://getmdl.io/)
 
 ```FrontEnd
-_Italic_ and `Code` text
+`Code` text
 
 [Link](url) and ![Image](src)
 ```
