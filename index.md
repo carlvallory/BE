@@ -29,7 +29,9 @@ _a framework for any device, medium, and accessibility._
 _a unified system that combines theory, resources, and tools for crafting digital experiences._
 [Link](https://getmdl.io/)
 
-`Work offline or in debug mode if you need` 
+
+### Work offline or in debug mode if you need 
+_Just change the settings on be.config.php_
 
 ```Config
 define( "isLocal",     true ); 			/*si se trabaja de manera local*/
