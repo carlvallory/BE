@@ -29,10 +29,12 @@ _a framework for any device, medium, and accessibility._
 _a unified system that combines theory, resources, and tools for crafting digital experiences._
 [Link](https://getmdl.io/)
 
-```FrontEnd
-`Code` text
+`define( "isLocal",     true ); 			/*si se trabaja de manera local*/
+define('debugMode', false);				/*si esta en modo desarrollo*/` 
 
-[Link](url) and ![Image](src)
+```Config
+define( "isLocal",     true ); 			/*si se trabaja de manera local*/
+define('debugMode', false);				/*si esta en modo desarrollo*/
 ```
 
 ### Support or Contact
