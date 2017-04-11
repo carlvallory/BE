@@ -19,15 +19,15 @@ The code has some script that i have used for some time now, but separetly, and 
 
 **Bootstrap**
 _a sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development._
-[Bootstrap 3](http://getbootstrap.com/)
+[Link](http://getbootstrap.com/)
 
 **Foundation**
-_a Framework for any device, medium, and accessibility._
-[Foundation 6](http://foundation.zurb.com/)
+_a framework for any device, medium, and accessibility._
+[Link](http://foundation.zurb.com/)
 
 **Material Design Lite**
 _a unified system that combines theory, resources, and tools for crafting digital experiences._
-[Material Design Lite](https://getmdl.io/)
+[Link](https://getmdl.io/)
 
 ```FrontEnd
 _Italic_ and `Code` text
