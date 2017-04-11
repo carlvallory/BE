@@ -40,4 +40,4 @@ define('debugMode', false);				/*si esta en modo desarrollo*/
 
 ### Support or Contact
 
-Having trouble with BE? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with BE? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/carlvallory) and we’ll help you sort it out.
