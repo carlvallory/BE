@@ -8,16 +8,26 @@ The code has some script that i have used for some time now, but separetly, and 
 
 ### Back End
 
-```BackEnd
-
 **Configuration**
 
 **Core**
 
 **Functions**
-```
+
 
 ### Front End
+
+**Bootstrap**
+_Bootstrap, a sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development._
+[Bootstrap 3](http://getbootstrap.com/)
+
+**Foundation**
+_Foundation a Framework for any device, medium, and accessibility._
+[Foundation 6](http://foundation.zurb.com/)
+
+**Material Design Lite**
+_Material Design is a unified system that combines theory, resources, and tools for crafting digital experiences._
+[Material Design Lite](https://getmdl.io/)
 
 ```FrontEnd
 _Italic_ and `Code` text
