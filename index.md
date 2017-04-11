@@ -1,4 +1,4 @@
-## BE the php starter-kit
+## BE a php starter-kit
 
 Im starting a self php starter-kit [here on GitHub](https://github.com/carlvallory/BE) to maintain the code easily.
 
