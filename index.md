@@ -1,6 +1,6 @@
 ## BE the php starter-kit
 
-Im starting a self php starter-kit [here on GitHub](https://github.com/carlvallory/carlvallory/edit/master/index.md) to maintain the code easily.
+Im starting a self php starter-kit [here on GitHub](https://github.com/carlvallory/BE) to maintain the code easily.
 
 ### The Code
 
